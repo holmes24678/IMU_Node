@@ -1,6 +1,8 @@
 
 # IMU SENSOR FUSING 
 ## How to Configure IMU_Sensor with Raspberry PI and Publishing IMU_Data over ROS2 Topic
+![image](https://github.com/user-attachments/assets/9bf7ecf9-cb91-48ca-a3db-d130bf76ba78)
+
 
 This setup shows how you can connect the bno055 (IMU_Sensor) with Raspberry Pi and Publishing the data over the ROS2 Topic.
 #### IMU - Intertial Measurement Unit is a type of Sensor used to Triaxial Acceleration and Rotational Measurements. In this Setup bno055 (by Bosch) is used which is absolute type Sensor. This is used for collecting Odometry Data which is later combined with Lidar or Camera or both to generate Maps and Navigation. This Sensor is connected to Raspberry Pi5 model (hosting Ubuntu Desktop)
