@@ -1,7 +1,8 @@
 
 # IMU SENSOR FUSING 
 ## How to Configure IMU_Sensor with Raspberry PI and Publishing IMU_Data over ROS2 Topic
-![image](https://github.com/user-attachments/assets/9bf7ecf9-cb91-48ca-a3db-d130bf76ba78)
+![image](https://github.com/user-attachments/assets/9fa92e8f-5f5f-4b69-a82b-b7a977260d71)
+
 
 
 This setup shows how you can connect the bno055 (IMU_Sensor) with Raspberry Pi and Publishing the data over the ROS2 Topic.
